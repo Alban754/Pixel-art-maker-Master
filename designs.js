@@ -1,4 +1,4 @@
-// From ideas gotten from the course material,stackflow and knowledge,
+// From ideas gotten from the course material,stackoverflow and knowledge,
 // The following code is established using jQuery
 $(function() {
     // Select color input
@@ -74,4 +74,3 @@ $(function() {
       });
     }
   });
-  
