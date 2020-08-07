@@ -19,6 +19,4 @@ Clicking submit again, clears the grid and double clicking on a square with colo
 ## References
 [jQuery rules](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
 
-[Answers to questions for Pixel art maker project ](https://knowledge.udacity.com/questions/298335)
-
 [Defining and linking jQuery to HTML](https://stackoverflow.com/questions/14106864/linking-jquery-in-html)
